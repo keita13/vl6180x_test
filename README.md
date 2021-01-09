@@ -1,0 +1,4 @@
+Nucleo F401
+
+PB4 I2C-SDA
+PA8 I2C-SCL

@@ -1,0 +1,9 @@
+VL6180x_c.c:10:6:VL6180x_init	16	static
+VL6180x_c.c:71:6:getIdentification	16	static
+VL6180x_c.c:93:9:changeAddress	16	static
+VL6180x_c.c:109:6:getDistance	16	static
+VL6180x_c.c:119:6:getAmbientLight	40	static
+VL6180x_c.c:164:13:VL6180x_getRegister	32	static
+VL6180x_c.c:178:13:VL6180x_getRegister16bit	32	static
+VL6180x_c.c:195:13:VL6180x_setRegister	32	static
+VL6180x_c.c:204:13:VL6180x_setRegister16bit	32	static
